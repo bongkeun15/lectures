@@ -13,7 +13,7 @@ import com.ohhoonim.send.Send;
 public class Main {
 	public static void main(String[] args) throws Exception {
 		System.out.println("Main 실행");
-		System.out.println("푸쉬를 테스트해보자 !!");
+		System.out.println("푸쉬를 테스트해보자 !!!!!");
 		if (args == null || args.length == 0 || (!args[0].equals("s") && !args[0].equals("r"))) {
 			System.out.println("옵션 s 또는 r을 붙여주세요.");
 			System.out.println("s : 송신측 실행");
