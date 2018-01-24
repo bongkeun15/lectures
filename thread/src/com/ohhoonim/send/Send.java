@@ -16,7 +16,7 @@ public class Send implements Callable<String> {
 	@Override
 	public String call() throws Exception {
 		int resultSize = sendMessage(this.yyyymmdd);
-		return yyyymmdd + " : " + resultSize + " 건 처리";
+		return yyyymmdd + " : " + resultSize + " 건 처리 ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ";
 	}
 	
 	private int sendMessage(String yyyymmdd)  {

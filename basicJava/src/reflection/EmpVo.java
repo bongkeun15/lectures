@@ -40,7 +40,7 @@ public class EmpVo {
 		sb = sb.append(" | ");
 		sb = sb.append(this.deptno);
 		
-		System.out.println("ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ");
+		System.out.println("ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ봉 테스트");
 		
 		return sb.toString();
 	}
