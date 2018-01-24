@@ -39,6 +39,9 @@ public class EmpVo {
 		sb = sb.append(this.sal);
 		sb = sb.append(" | ");
 		sb = sb.append(this.deptno);
+		
+		System.out.println("ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ");
+		
 		return sb.toString();
 	}
 }
